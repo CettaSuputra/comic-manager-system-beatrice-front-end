@@ -1,1 +1,1 @@
-# comic-manager-system-beatrice
+# comic-manager-system-beatrice-front-end
