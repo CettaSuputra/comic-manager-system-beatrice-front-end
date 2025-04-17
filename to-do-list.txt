@@ -1,0 +1,7 @@
+Development Enviroment Setup :
+
+1. Menginisialisasi repository Git dan Github. 
+2. Membuat 2 branch di repository Github yang terdiri dari : master/main dan develop. 
+3. Mendevelop module sebagai model dari Local Storage.
+4. Mendevelop module untuk sistem validasi dari sisi Client. 
+4. Mendevelop route antar halaman web.
