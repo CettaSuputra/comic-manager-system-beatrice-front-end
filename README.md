@@ -1,0 +1,1 @@
+# comic-manager-system-beatrice
